@@ -3,3 +3,4 @@ This is line2 added by johnklee
 This is line3 added by johnklee
 This is line4 added for rebase testing
 This line is testing rebase
+This line is added in master branch
