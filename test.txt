@@ -1,3 +1,0 @@
-Sat Jan 23 17:08:01 PST 2021
-v0.0.2
-commit after v0.0.2
